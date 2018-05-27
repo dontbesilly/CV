@@ -1,7 +1,0 @@
-SELECT Customers.Name
-FROM Customers
-JOIN Purshases ON Customers.CustomerId = Purshases.CustomerId AND Purshases.ProductName = 'молоко'
-EXCEPT
-SELECT Customers.Name
-FROM Customers
-JOIN Purshases ON Customers.CustomerId = Purshases.CustomerId AND Purshases.ProductName = 'сметана' AND Purshases.PurchaseDatetime BETWEEN '2018-02-01' AND '2018-02-28' 
