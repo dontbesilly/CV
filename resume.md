@@ -12,14 +12,15 @@
 
 ## Опыт работы
 
+С 1 ноября 2012 года по 1 июля 2013 года в компании Ортикон программистом.  
 С 1 августа 2013 года по сегодняшний день в компании Первый БИТ.  
 > До февраля 2018 года в должности программист.  
 > С февраля 2018 по сегодняшний день в должности веб-специалист.
 
 ## Навыки
 
-* `C#` (dotnet core 3, asp .net, Di, sqlite, crypto, cli, wpf)
-* `NodeJS` + `Typescript` + `Typeorm` + `postgresql` + `jasmine`
+* `C#` (dotnet core 3, asp .net, Di, sqlite, crypto, cli, wpf). Больше 2 лет.
+* `NodeJS` + `Typescript` + `Typeorm` + `postgresql` + `jasmine`. Полгода.
 * `1С предприятие`
 * `Unity`
 * `Linux` (базовый уровень)
