@@ -20,7 +20,7 @@
 ## Навыки
 
 * `C#` (dotnet core 3, asp .net, Di, sqlite, crypto, cli, wpf). Больше 2 лет.
-* `NodeJS` + `Typescript` + `Typeorm` + `postgresql` + `jasmine`. Полгода.
+* `NodeJS` + `Typescript` + `Typeorm` + `postgresql` + `jasmine`. Год.
 * `1С предприятие`
 * `Unity`
 * `Linux` (базовый уровень)
@@ -36,3 +36,4 @@
 ## Для связи
 
 vikontart@gmail.com
++7-926-185-73-67
