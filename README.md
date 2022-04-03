@@ -45,7 +45,7 @@
 
 ## Навыки
 
-* Язык `C#` (.NET, ASP.NET, EF core, cli, wpf, тестирование)
+* Язык `C#` (.NET, ASP.NET, EF core, graphQL, cli, wpf, тестирование)
 * Базы данных `postgresql`, `sqlite`, `MSSQL`
 * `NodeJS` (typescript, typeorm, тестирование jasmine)
 * `unity` (базовый уровень)
