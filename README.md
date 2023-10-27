@@ -6,7 +6,7 @@
 
 I possess over 4 years of experience in web application development using ASP.NET Web API, EF Core, and C#. I place significant emphasis on the architecture of my solutions.  I've participated in both rapid MVP development and supported large-scale projects for major businesses. In total, I bring 9 years of IT experience to the table.
 
-## Технические навыки
+## Technical Skills
 
 - **Programming Languages:** C#
 - **Frameworks:** ASP.NET
@@ -44,7 +44,7 @@ February 2019 - February 2020
 **First BIT (Bit.Finance)**  
 August 2013 - February 2019
 
-- Developed Bit.Finance application in 1C language
+- Developed Bit.Finance application in 1S language
 - Developed PowerShell scripts
 - Telegram bot developed using C# and WPF
 
