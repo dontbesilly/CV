@@ -4,7 +4,7 @@
 
 ## About Me
 
-I possess over 4 years of experience in web application development using ASP.NET Web API, EF Core, and C#. I place significant emphasis on the architecture of my solutions.  I've participated in both rapid MVP development and supported large-scale projects for major businesses. In total, I bring 9 years of IT experience to the table.
+I have 4 years of experience in .NET, working with ASP.NET Web API, EF Core, and C#. I focus on making strong and simple solutions. I've worked on quick projects and big projects for large companies. I have 9 years of total IT experience.
 
 ## Technical Skills
 
